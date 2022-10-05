@@ -213,7 +213,7 @@ const food = [
     img: "allrounders/shardul-thakur.jpg",
     Jersey_No: 54,
     cateogary: "ALL-Rounder",
-    link:"https://www.cricbuzz.com/profiles/8683/shardul-thakur",
+    link: "https://www.cricbuzz.com/profiles/8683/shardul-thakur",
   },
   {
     id: 27,
@@ -221,7 +221,7 @@ const food = [
     img: "allrounders/krunal-pandya.jpg",
     Jersey_No: 24,
     cateogary: "ALL-Rounder",
-    link:"https://www.cricbuzz.com/profiles/11311/krunal-pandya",
+    link: "https://www.cricbuzz.com/profiles/11311/krunal-pandya",
   },
   {
     id: 28,
@@ -229,7 +229,7 @@ const food = [
     img: "allrounders/shivam-dube.jpg",
     Jersey_No: 70,
     cateogary: "ALL-Rounder",
-    link:"https://www.cricbuzz.com/profiles/11195/shivam-dube",
+    link: "https://www.cricbuzz.com/profiles/11195/shivam-dube",
   },
   {
     id: 29,
@@ -237,7 +237,7 @@ const food = [
     img: "allrounders/washington-sundar.jpg",
     Jersey_No: 55,
     cateogary: "ALL-Rounder",
-    link:"https://www.cricbuzz.com/profiles/10945/washington-sundar",
+    link: "https://www.cricbuzz.com/profiles/10945/washington-sundar",
   },
 
   {
@@ -246,7 +246,7 @@ const food = [
     img: "allrounders/ravichandran-ashwin.jpg",
     Jersey_No: 99,
     cateogary: "ALL-Rounder",
-    link:"https://www.cricbuzz.com/profiles/1593/ravichandran-ashwin",
+    link: "https://www.cricbuzz.com/profiles/1593/ravichandran-ashwin",
   },
   {
     id: 31,
@@ -254,7 +254,7 @@ const food = [
     img: "allrounders/deepak-hooda.jpg",
     Jersey_No: 5,
     cateogary: "ALL-Rounder",
-    link:"https://www.cricbuzz.com/profiles/9427/deepak-hooda",
+    link: "https://www.cricbuzz.com/profiles/9427/deepak-hooda",
   },
   {
     id: 32,
@@ -262,6 +262,7 @@ const food = [
     img: "wicketkeeper/dhoni.jpg",
     Jersey_No: 07,
     cateogary: "Wicket-Keeper",
+    link: "https://www.cricbuzz.com/profiles/265/ms-dhoni",
   },
   {
     id: 33,
@@ -269,6 +270,7 @@ const food = [
     img: "wicketkeeper/pant.jpg",
     Jersey_No: 17,
     cateogary: "Wicket-Keeper",
+    link: "https://www.cricbuzz.com/profiles/10744/rishabh-pant",
   },
   {
     id: 34,
@@ -276,6 +278,7 @@ const food = [
     img: "wicketkeeper/rahul.jpg",
     Jersey_No: 01,
     cateogary: "Wicket-Keeper",
+    link:"https://www.cricbuzz.com/profiles/8733/lokesh-rahul",
   },
   {
     id: 35,
